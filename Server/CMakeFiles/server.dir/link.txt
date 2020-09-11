@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/server.dir/src/dbutil.c.o CMakeFiles/server.dir/src/list.c.o CMakeFiles/server.dir/src/server.c.o CMakeFiles/server.dir/src/threcv_ser.c.o CMakeFiles/server.dir/src/util_ser.c.o  -o server  -lsqlite3 -lpthread 

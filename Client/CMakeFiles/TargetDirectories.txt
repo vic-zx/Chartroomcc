@@ -1,0 +1,3 @@
+/home/vic/chatroom/Client/CMakeFiles/rebuild_cache.dir
+/home/vic/chatroom/Client/CMakeFiles/edit_cache.dir
+/home/vic/chatroom/Client/CMakeFiles/client.dir
